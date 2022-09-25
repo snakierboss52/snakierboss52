@@ -7,6 +7,12 @@
 # Serenity Screenplay Rest Automation
 https://github.com/snakierboss52/apitesting-serenity-screenplay-rest
 
+# Automation Web Page using POM java
+https://github.com/snakierboss52/testFortesza
+
+# Automation modules with terraform | AWS
+https://github.com/snakierboss52/terraform-practice
+
 <!---
 snakierboss52/snakierboss52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
