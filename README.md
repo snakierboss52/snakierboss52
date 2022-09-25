@@ -4,6 +4,9 @@
 - 💞️ I have knowledge in Java(Spring boot) and intermediate python knowledge
 - I haved worked with diferent automation frameworks like appium, serenityBDD, cucumberBDD, selenium, and performance testing in K6 and Jmeter
 
+# Serenity Screenplay Rest Automation
+https://github.com/snakierboss52/apitesting-serenity-screenplay-rest
+
 <!---
 snakierboss52/snakierboss52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
