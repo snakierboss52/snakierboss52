@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @snakierboss52 or Jorge Lozano 
-- 👀 I’m interested in ... All backend development and automation testing with diferents frameworks
-- 🌱 I’m currently learning ... systems engineering
-- 💞️ I have knowledge in Java(Spring boot) and intermediate python knowledge
+- 👋 Hi, I’m Jorge Lozano 
+- 👀 I’m actually DevOps Enginner in RobinFood SAS in charge of all AWS management
+- 💞️ I have knowledge in AWS Cloud (EC2, ECS, RDS, AWS Lambda, Route53, AutoScalingGroups, IAM), Python programming, Bash scripting, Serverless framework
+- Experience with Java SpringBoot microservices, Python programming and Fast Api
+- IaC programming, terraform modules to provision infraestructure, Ansible and puppet for configuration management and deploy multiple servers
 - I haved worked with diferent automation frameworks like appium, serenityBDD, cucumberBDD, selenium, and performance testing in K6 and Jmeter
+
+
+# Automation modules with terraform | AWS and GCP
+https://github.com/snakierboss52/terraform-practice
+https://github.com/snakierboss52/terraform-gcp
+
+# Python repository with multiple excersices
+https://github.com/snakierboss52/Python
 
 # Serenity Screenplay Rest Automation
 https://github.com/snakierboss52/apitesting-serenity-screenplay-rest
@@ -10,8 +19,6 @@ https://github.com/snakierboss52/apitesting-serenity-screenplay-rest
 # Automation Web Page using POM java
 https://github.com/snakierboss52/testFortesza
 
-# Automation modules with terraform | AWS
-https://github.com/snakierboss52/terraform-practice
 
 <!---
 snakierboss52/snakierboss52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
