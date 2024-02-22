@@ -7,3 +7,6 @@
 
 # Linkedin Profile
 https://www.linkedin.com/in/jorge-lozano-arenas/
+
+# Visit my CV
+https://jorge-lozano.com
